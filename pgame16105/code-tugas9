@@ -1,0 +1,12 @@
+#Operator Membership
+
+a = [2, 3, 4, 5]
+print (a)
+5 in a
+1 in a
+a = [2, 3, 4, 5]
+5 not in a
+1 not in a
+b = ['A','B','C','F']
+print (b)
+'A' in b
